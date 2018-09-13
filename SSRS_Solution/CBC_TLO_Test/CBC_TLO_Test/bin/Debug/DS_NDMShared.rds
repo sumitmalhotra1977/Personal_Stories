@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DS_NDMShared">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=agl_ndm_dev1;Initial Catalog=Apollo_NDM</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>9cb1a394-81d7-4209-bbdb-9b969706bde8</DataSourceID>
+</RptDataSource>

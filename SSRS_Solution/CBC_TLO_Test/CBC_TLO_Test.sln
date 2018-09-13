@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CBC_TLO_Test", "CBC_TLO_Test\CBC_TLO_Test.rptproj", "{6AF73558-8FF2-4443-97E8-00361906EA45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF73558-8FF2-4443-97E8-00361906EA45}.Debug|Default.ActiveCfg = Debug
+		{6AF73558-8FF2-4443-97E8-00361906EA45}.Debug|Default.Build.0 = Debug
+		{6AF73558-8FF2-4443-97E8-00361906EA45}.Debug|Default.Deploy.0 = Debug
+		{6AF73558-8FF2-4443-97E8-00361906EA45}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{6AF73558-8FF2-4443-97E8-00361906EA45}.DebugLocal|Default.Build.0 = DebugLocal
+		{6AF73558-8FF2-4443-97E8-00361906EA45}.Release|Default.ActiveCfg = Release
+		{6AF73558-8FF2-4443-97E8-00361906EA45}.Release|Default.Build.0 = Release
+		{6AF73558-8FF2-4443-97E8-00361906EA45}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E490BE5-89DA-4DFE-8A33-5F08419869CC}
+	EndGlobalSection
+EndGlobal
